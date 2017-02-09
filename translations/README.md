@@ -1,3 +1,3 @@
 This folder contains some ready translations.
 
-**Portuguese:** Made by me! Haha' (Lucas Cota, BrasileiroGamer)
+**Portuguese:** Lucas Cota, BrasileiroGamer. [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=860055942)
