@@ -1,5 +1,5 @@
 # TrineEE_TranslationTools
-Tools for complete translation of the game Trine Enchanted Edition (UI + Subtitles)
+Tools for complete translation of the game Trine Enchanted Edition (UI + Subtitles).
 
 # Description
 The base language is English to start translating.
