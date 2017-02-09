@@ -1,0 +1,16 @@
+-- /data/locale/gui/$$/hud/weapon_window.lua
+
+warrior_weapon_sword_line_1 = "Espada e"
+warrior_weapon_sword_line_2 = "Escudo"
+warrior_weapon_firesword_line_1 = "Espada Flamejante"
+warrior_weapon_firesword_line_2 = "e Escudo"
+warrior_weapon_hammer_line_1 = "Martelo da"
+warrior_weapon_hammer_line_2 = "Tempestade"
+thief_weapon_bow_line_1 = "Arco"
+thief_weapon_bow_line_2 = ""
+thief_weapon_firebow_line_1 = "Arco de Fogo"
+thief_weapon_firebow_line_2 = ""
+thief_weapon_icebow_line_1 = "Arco de Gelo"
+thief_weapon_icebow_line_2 = ""
+thief_weapon_lga_line_1 = "Área de baixa gravidade"
+thief_weapon_lga_line_2 = "Flecha Ativada"
