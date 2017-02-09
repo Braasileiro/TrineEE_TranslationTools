@@ -1,0 +1,37 @@
+-- /data/locale/gui/$$/menu/mainmenu/mainmenu.lua
+
+headerMainMenu = ""
+
+buttonStartDemoPS3 = "Start Demo"
+buttonStartDemoXbox360 = "Start Trial"
+buttonStartDemoWindows = "Start Demo"
+buttonStartDemoOther = "Start Demo"
+buttonContinue = "Resume Game"
+buttonSinglePlayer = "Single Player"
+buttonMultiplayer = "Multiplayer"
+buttonHelpAndOptions = "Help & Options"
+buttonAchievements = "Achievements"
+buttonAchievementsPlaystation3 = "Trophies"
+buttonAchievementsPS4 = "Trophies"
+buttonAchievementsWiiU = "Trophies"
+buttonUnlockFullGame = "Unlock Full Game"
+buttonDownloadContent = "Download Content"
+buttonDownloadContentPC = "Downloadable Content"
+buttonDeveloperMenu = "Developer menu"
+buttonLeaderboards = "Leaderboards"
+buttonQuit = "Exit Game"
+buttonInvitations = "Invitations"
+
+popupLoadingSave = "Loading the latest save...@"
+popupQuitGame = "Are you sure you wish to exit the game?"
+
+buttonE3WiiUStartLevel1 = "Forlorn Wilderness"
+buttonE3WiiUStartLevel2 = "Deadly Dustland"
+
+buttonWiiUStartStartDemo = "Start Demo"
+buttonWiiUPlay = "Play"
+buttonWiiUSettings = "Settings"
+buttonWiiUAchievementsAndExtras = "Achievements & Extras"
+buttonWiiUUnlockFullGame = "Unlock Full Game"
+buttonWiiUDownloadContent = "Download Content"
+buttonWiiUQuit = "Exit Game"

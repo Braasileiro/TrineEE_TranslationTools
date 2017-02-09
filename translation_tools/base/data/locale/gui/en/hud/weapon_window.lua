@@ -1,0 +1,16 @@
+-- /data/locale/gui/$$/hud/weapon_window.lua
+
+warrior_weapon_sword_line_1 = "Sword and"
+warrior_weapon_sword_line_2 = "Shield"
+warrior_weapon_firesword_line_1 = "Fire Sword"
+warrior_weapon_firesword_line_2 = "and Shield"
+warrior_weapon_hammer_line_1 = "Storm"
+warrior_weapon_hammer_line_2 = "Hammer"
+thief_weapon_bow_line_1 = "Bow"
+thief_weapon_bow_line_2 = ""
+thief_weapon_firebow_line_1 = "Fire Bow"
+thief_weapon_firebow_line_2 = ""
+thief_weapon_icebow_line_1 = "Ice Bow"
+thief_weapon_icebow_line_2 = ""
+thief_weapon_lga_line_1 = "Low Gravity Area"
+thief_weapon_lga_line_2 = "Arrow Activated"
