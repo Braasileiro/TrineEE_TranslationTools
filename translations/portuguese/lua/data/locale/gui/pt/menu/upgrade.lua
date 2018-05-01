@@ -12,7 +12,7 @@ back = "Voltar"
 notAllowed = "Não é possível melhorar"
 
 notAllowedDLC = "Complete Story desbloqueia essa habilidade"
-desc_notAllowed = "Somente o host pode aplicar melhorias em modo multiplayer"
+desc_notAllowed = "Somente o host pode aplicar melhorias em modo multijogador"
 notEnoughPoints = "Pontos de habilidade insuficientes"
 
 desc_specialSkillsLocked = "Essa habilidade está bloqueada. As habilidades de nível 4 são desbloqueadas quando pelo menos quatro habilidades de nível 3 forem desbloqueadas."

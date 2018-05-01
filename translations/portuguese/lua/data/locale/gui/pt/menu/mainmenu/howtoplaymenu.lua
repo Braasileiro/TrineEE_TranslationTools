@@ -9,7 +9,7 @@ valuegettingstarted = "Começando"
 valuetips = "Dicas"
 
 tipsText1 = "\n <b>•</b> Se você se encontrar preso, tente resolver o puzzle com outro personagem ou com outro jogador para se juntar a você."
-tipsText2 = "\n <b>•</b> Você pode mudar o modo de jogo de um jogador para multiplayer online no menu Configurações do Jogo sem ter que sair primeiro."
+tipsText2 = "\n <b>•</b> Você pode mudar o modo de jogo de um jogador para multijogador online no menu Configurações do Jogo sem ter que sair primeiro."
 tipsText3 = "\n <b>•</b> Você pode acessar o menu de opções durante o jogo pressionando START."
 tipsText4 = "\n <b>•</b> Retorne a todos os níveis anteriores para coletar a experiência que você pode ter perdido, mas lembre-se que seu ponto de saída é salvo somente no nível mais recentemente jogado."
 

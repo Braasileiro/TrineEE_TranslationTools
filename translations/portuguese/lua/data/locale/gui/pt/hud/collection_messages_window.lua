@@ -13,7 +13,7 @@ picked_up_mystery_bottle_last_one = "Você encontrou a última garrafa misterios
 picked_up_experience_shard = "Você adquiriu experiência"
 picked_up_large_experience_shard = "Você adquiriu grande experiência"
 
-grappling_hook_attaches_only_to_wooden_surfaces = "O gancho somente agarra-se em superfícies de madeira"
+grappling_hook_attaches_only_to_wooden_surfaces = "O gancho agarra-se somente em superfícies de madeira"
 
 item_vial_h_proc = "Você usou o Frasco de Saúde para recuperar saúde"
 item_vial_h_info = "(Recarrega no próximo checkpoint)"

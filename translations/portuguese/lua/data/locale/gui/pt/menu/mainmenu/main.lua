@@ -2,8 +2,8 @@
 
 continueButton = "Continuar"
 singlePlayerButton = "Um Jogador"
-multiplayerButton = "Multiplayer"
-helpAndOptionsButton = "Ajudar e Opções"
+multiplayerButton = "Multijogador"
+helpAndOptionsButton = "Ajuda e Opções"
 trophiesButton = "Troféus"
 quitButton = "Sair"
 

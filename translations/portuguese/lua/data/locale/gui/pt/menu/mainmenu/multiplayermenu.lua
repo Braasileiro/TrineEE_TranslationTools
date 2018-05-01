@@ -1,13 +1,13 @@
 -- /data/locale/gui/$$/menu/mainmenu/multiplayermenu.lua
 
-headerMultiplayerMenu = "Multiplayer Menu"
+headerMultiplayerMenu = "Menu Multijogador"
 
 buttonQuickJoin = "Partida Rápida"
 buttonJoinOnlineGame = "Participar de um Jogo Online"
 buttonJoinPartyGame = "Participar de um Jogo do Xbox LIVE"
 buttonHostPublicGame = "Hospedar um Jogo Público"
 buttonHostPrivateGame = "Hospedar um Jogo Privado"
-buttonLocalMultiplayerGame = "Jogo Multiplayer Local"
+buttonLocalMultiplayerGame = "Jogo Multijogador Local"
 buttonSaveSlot = "Save Slot"
 buttonProfileSettings = buttonSaveSlot
 
@@ -38,9 +38,9 @@ buttonWiiUHostPublicGame = "Host Público"
 buttonWiiUHostPrivateGame = "Somente Amigos"
 buttonWiiULocalMultiplayerGame = "Jogo Local"
 
-popupUGCLine1 = "O Nintendo Network ID é compartilhado entre outros usuários online durante uma experiência multiplayer."
-popupUGCLine2 = "Começar para hospedar ou participar de um jogo multiplayer e finalizar para sair do jogo multiplayer."
-popupUGCLine3 = "Os dados de áudio do Chat de Voz são trocados com outros jogadores durante uma experiência multiplayer de acordo com as configurações do Char de Voz."
+popupUGCLine1 = "O Nintendo Network ID é compartilhado entre outros usuários online durante uma experiência multijogador."
+popupUGCLine2 = "Começar para hospedar ou participar de um jogo multijogador e finalizar para sair do jogo multijogador."
+popupUGCLine3 = "Os dados de áudio do Chat de Voz são trocados com outros jogadores durante uma experiência multijogador de acordo com as configurações do Char de Voz."
 
 popupEnableVoiceChatLine1 = "Outro jogador está usando o Chat de Voz."
 popupEnableVoiceChatLine2 = "Para usar o Chat de Voz você terá que habilitá-lo primeiro."

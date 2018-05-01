@@ -1,15 +1,15 @@
 -- /data/locale/gui/$$/menu/mainmenu/hostgamemenu.lua
 
-headerJoinGame = "Jogo Multiplayer Online"
+headerJoinGame = "Jogo Multijogador Online"
 headerHostPublicGame = "Hospedar um Jogo Público"
 headerHostPrivateGame = "Hospedar um Jogo Privado"
-headerHostLocalGame = "Jogo Multiplayer Local"
+headerHostLocalGame = "Jogo Multijogador Local"
 headerGameSettings = "Configurações do Jogo"
 
-headerJoinGameWithProfileNamePrefix = "Jogo Multiplayer Online - "
+headerJoinGameWithProfileNamePrefix = "Jogo Multijogador Online - "
 headerHostPublicGameWithProfileNamePrefix = "Hospedar um Jogo Público - "
 headerHostPrivateGameWithProfileNamePrefix = "Hospedar um Jogo Privado - "
-headerHostLocalGameWithProfileNamePrefix = "Jogo Multiplayer Local - "
+headerHostLocalGameWithProfileNamePrefix = "Jogo Multijogador Local - "
 headerGameSettingsWithProfileNamePrefix = "Configurações do Jogo - "
 
 buttonProfileSettings = "Configurações do Save Slot"
@@ -113,7 +113,7 @@ popupHostBackClickedLine1 = "Sair do menu de Hospedagem de Jogo irá desconectar
 popupHostBackClickedLine2 = "Você tem certeza de que deseja sair e parar de hospedar o jogo?"
 popupHostBackClickedLine3 = ""
 
-popupClientBackClickedLine1 = "Sair do menu de Jogo Multiplayer Online irá desconectá-lo do host."
+popupClientBackClickedLine1 = "Sair do menu de Jogo Multijogador Online irá desconectá-lo do host."
 popupClientBackClickedLine2 = "Você tem certeza de que deseja sair e desconectar?"
 popupClientBackClickedLine3 = ""
 

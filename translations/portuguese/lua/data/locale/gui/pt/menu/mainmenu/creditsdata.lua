@@ -2,7 +2,7 @@
 
 empty = ""
 
-original = "Trine\nGUI: Português Brasil\nLegendas: Português Europeu (Adaptação da Tradução do Trine Original)\nAutor: Lucas Cota (BrasileiroGamer)\nEmail: lucasbrunocota@live.com\nGitHub: <https://github.com/BrasileiroGamer>\n2017"
+original = "Trine (original)"
 
 producer = "Produtor"
 designDirector = "Diretor de Design"
@@ -75,7 +75,7 @@ t1OstInMemory = "Trilha Sonora em memória de Pauli Pulkkinen (1946-2008)"
 
 frozenbyteIs = "Frozenbyte é"
 
-remastered = "Trine Enchanted Edition\nGUI: Português Brasil\nLegendas: Português Europeu (Adaptação da Tradução do Trine Original)\nAutor: Lucas Cota (BrasileiroGamer)\nEmail: lucasbrunocota@live.com\nGitHub: <https://github.com/BrasileiroGamer>\n2017"
+remastered = "Trine Enchanted Edition, tadução realizada por Lucas Cota (Brasileiro), obrigado pelo suporte! GitHub: <https://github.com/BrasileiroGamer>"
 
 seniorproducer = "Produtor Sênior"
 

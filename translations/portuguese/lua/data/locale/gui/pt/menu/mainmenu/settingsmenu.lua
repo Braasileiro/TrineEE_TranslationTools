@@ -17,7 +17,7 @@ tooltipAudioVolume = "Ajuste o volume para efeitos de som,\ndiálogos e música"
 tooltipMicrophoneSettings = "Opções do Chat de Voz e Microfone"
 tooltipControllerVibration = ""
 tooltipControlSettings = "Sensibilidade do controle, vibração"
-tooltipConfigureControls = "Keymap do controle"
+tooltipConfigureControls = "Mapeamento do controle"
 tooltipNetworkSettings = "Ferramentas para melhorar o desempenho online"
 
 tooltipOn = ""

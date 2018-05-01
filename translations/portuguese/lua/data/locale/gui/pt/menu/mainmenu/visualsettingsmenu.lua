@@ -1,12 +1,12 @@
 -- /data/locale/gui/$$/menu/mainmenu/visualsettingsmenu.lua
 
 headerVisualSettings = "Configurações Visuais"
-subheaderStereo3D = "Configurações do Stereoscopic 3D"
+subheaderStereo3D = "Configurações do 3D Estereoscópico"
 
 infoNoBrightness = "O brilho só pode ser aplicado no modo de tela cheia"
 
-buttonUiVisibility = "Visibilidade de UI"
-buttonEnableStereo3D = "Stereoscopic 3D"
+buttonUiVisibility = "Visibilidade da UI"
+buttonEnableStereo3D = "3D Estereoscópico"
 
 valueAlways = "Sempre"
 valueFlash = "Flash"
@@ -22,7 +22,7 @@ tooltipFlash = "Os retratos de personagem são exibidos ao alterar o personagem 
 sliderBrightness = "Brilho"
 sliderSeparation = "Separação"
 sliderConvergence = "Convergência"
-sliderUIDepth = "Profundidade de UI"
+sliderUIDepth = "Profundidade da UI"
 
 buttonReset = "Restaurar Padrões"
 
